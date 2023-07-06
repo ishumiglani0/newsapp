@@ -1,3 +1,21 @@
+*{
+  padding: 0px;
+  
+}
+.ts{
+  text-shadow:7px 5px 10px #E75480,-7px -5px 10px #E75480,-7px 5px 10px #E75480,7px -5px 10px #E75480;
+}
+.ts-w{
+  text-shadow:7px 5px 10px whitesmoke,-7px -5px 10px whitesmoke,-7px 5px 10px whitesmoke,7px -5px 10px whitesmoke;
+color: rgb(23, 22, 22)
+}
+
+
+.b-round-p1{
+  border-radius: 2px;
+  padding : 10px;
+}
+
 .App {
   text-align: center;
 }
